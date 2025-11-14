@@ -20,22 +20,5 @@
       <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/refs/heads/master/frameworks/spring.svg" width="100" height="100" />
       <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/refs/heads/master/frameworks/django.svg" width="100" height="100" />
       <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/refs/heads/master/frameworks/android.svg" width="100" height="100" />
-  </div>
-  
+  </div>  
 </div>
-
-
-<style>
-  h3 {
-    display: inline-block;
-  }
-  div {
-    display: inline-block;
-  }
-  flex {
-    gap: 10px;
-    display: flex; 
-    flex-direction: column; 
-    align-items: center;
-  }
-</style>
