@@ -1,16 +1,41 @@
-## Hi there 👋
+## Hi I'm protocat! &#128075;
 
-<!--
-**protocatzk/protocatzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: flex; gap: 20px; align-self: start;">
+  
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <h3 style="display: inline-block;">Languages</h3>
+      <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/refs/heads/master/programming%20languages/java.svg" width="100" height="100" />
+      <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/refs/heads/master/programming%20languages/python.svg" width="100" height="100" />
+      <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/refs/heads/master/programming%20languages/kotlin.svg" width="100" height="100" />
+  </div>
+  
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <h3 style="display: inline-block;">Databases</h3>
+    <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/refs/heads/master/databases/mariadb.svg" width="100" height="100" />
+    <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/refs/heads/master/databases/mysql.svg" width="100" height="100" />
+  </div>
+  
+  <div style="display: flex; flex-direction: column; align-items: center;">
+      <h3 style="display: inline-block;">Frameworks</h3>
+      <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/refs/heads/master/frameworks/spring.svg" width="100" height="100" />
+      <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/refs/heads/master/frameworks/django.svg" width="100" height="100" />
+      <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/refs/heads/master/frameworks/android.svg" width="100" height="100" />
+  </div>
+  
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<style>
+  h3 {
+    display: inline-block;
+  }
+  div {
+    display: inline-block;
+  }
+  flex {
+    gap: 10px;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center;
+  }
+</style>
