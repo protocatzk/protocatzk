@@ -6,7 +6,6 @@
         <img src="icons/django.svg"  height="100" />
         <img src="icons/spring.svg"  height="100" />
         <img src="icons/android.svg"  height="100" />
-        <img src="icons/redis.svg"  height="100" />
         <img src="icons/mariadb.svg"  height="100" />
         <img src="icons/mysql.svg"  height="100" />
     </div>
