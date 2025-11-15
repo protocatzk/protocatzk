@@ -1,4 +1,4 @@
-<div style="align-items: center; display: flex; flex-direction: column; gap: 10px;">
+<div style="display: flex; flex-direction: column; gap: 10px;">
     <h1>Hi! I'm protocat &#128075;</h1>
     <div style="display: flexbox; flex-wrap: wrap; flex-direction: column;">
         <img src="icons/python.svg" height="100" />
