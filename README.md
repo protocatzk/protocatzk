@@ -15,7 +15,6 @@
         <img src="icons/mariadb.svg" width="100" height="100" />
         <img src="icons/mysql.svg" width="100" height="100" />
     </div>
-    <i>Familiar Languages and Frameworks</i>
 </div>
 
 ### Currently working on:
